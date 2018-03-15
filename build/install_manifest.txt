@@ -1,5 +1,0 @@
-/usr/local/lib/libmarkusja_RandomLibrary.so.1.0.0
-/usr/local/lib/libmarkusja_RandomLibrary.so.1
-/usr/local/lib/libmarkusja_RandomLibrary.so
-/usr/local/include/markusja_RandomLibrary.h
-/usr/local/share/pkgconfig/markusja_RandomLibrary.pc

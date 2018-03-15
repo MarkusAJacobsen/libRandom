@@ -1,7 +1,0 @@
-/home/markusja/CLionProjects/markusja_RandomLibrary/build/CMakeFiles/install/strip.dir
-/home/markusja/CLionProjects/markusja_RandomLibrary/build/CMakeFiles/install/local.dir
-/home/markusja/CLionProjects/markusja_RandomLibrary/build/CMakeFiles/markusja_RandomLibrary.dir
-/home/markusja/CLionProjects/markusja_RandomLibrary/build/CMakeFiles/install.dir
-/home/markusja/CLionProjects/markusja_RandomLibrary/build/CMakeFiles/list_install_components.dir
-/home/markusja/CLionProjects/markusja_RandomLibrary/build/CMakeFiles/edit_cache.dir
-/home/markusja/CLionProjects/markusja_RandomLibrary/build/CMakeFiles/rebuild_cache.dir
